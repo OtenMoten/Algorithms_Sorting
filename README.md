@@ -1,2 +1,2 @@
 # Algorithms_Sorting
-This my library of sorting-algorithms I write by myself.
+This project is a big library which contains a lot of sorting-algorithms.
